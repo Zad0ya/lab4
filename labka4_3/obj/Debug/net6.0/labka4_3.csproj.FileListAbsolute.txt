@@ -1,0 +1,15 @@
+C:\Users\Max\source\repos\labka4_3\labka4_3\obj\Debug\net6.0\labka4_3.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\labka4_3\labka4_3\obj\Debug\net6.0\labka4_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\source\repos\labka4_3\labka4_3\obj\Debug\net6.0\labka4_3.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\labka4_3\labka4_3\obj\Debug\net6.0\labka4_3.AssemblyInfo.cs
+C:\Users\Max\source\repos\labka4_3\labka4_3\obj\Debug\net6.0\labka4_3.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\labka4_3\labka4_3\bin\Debug\net6.0\labka4_3.exe
+C:\Users\Max\source\repos\labka4_3\labka4_3\bin\Debug\net6.0\labka4_3.deps.json
+C:\Users\Max\source\repos\labka4_3\labka4_3\bin\Debug\net6.0\labka4_3.runtimeconfig.json
+C:\Users\Max\source\repos\labka4_3\labka4_3\bin\Debug\net6.0\labka4_3.dll
+C:\Users\Max\source\repos\labka4_3\labka4_3\bin\Debug\net6.0\labka4_3.pdb
+C:\Users\Max\source\repos\labka4_3\labka4_3\obj\Debug\net6.0\labka4_3.dll
+C:\Users\Max\source\repos\labka4_3\labka4_3\obj\Debug\net6.0\refint\labka4_3.dll
+C:\Users\Max\source\repos\labka4_3\labka4_3\obj\Debug\net6.0\labka4_3.pdb
+C:\Users\Max\source\repos\labka4_3\labka4_3\obj\Debug\net6.0\labka4_3.genruntimeconfig.cache
+C:\Users\Max\source\repos\labka4_3\labka4_3\obj\Debug\net6.0\ref\labka4_3.dll
